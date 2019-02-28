@@ -1,0 +1,5 @@
+Git is a version control platform.  It allows you to take snapshots of your work as you go, and then saves them 
+in a digital filing cabinet.  In order for git to save anything, you first must tell it to take the snap shot, 
+and then to put the snap shot in the filing cabinet.  You tell git to take snapshots using the add command.  You 
+tell git to add the snapshot to the filing cabinet using the commit command.  Using this strategy, the filing 
+cabinet is stored on your hard drive, not the cloud.
